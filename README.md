@@ -1,1 +1,1 @@
-# security_notes_app
+# The application is designed to exchange encrypted messages over the Internet. Each message is assigned a unique hash. After passing the link to your friend, he can insert it in the browser or on our site and see the message. After reading the message is immediately deleted from the database.
